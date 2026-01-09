@@ -1,6 +1,6 @@
 # Company-Performance-Analysis-Power-BI-Project
 
-##Table Of Contents
+## Table Of Contents
 
 [Project Objective](#project-objective)
 
