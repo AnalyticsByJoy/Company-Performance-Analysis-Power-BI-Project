@@ -12,6 +12,8 @@
 
 [Dashboards](#dashboards)
 
+[Dataset Used](#dataset-used)
+
 ## Project Objective
 The objective of this project was to analyze the sales performance of a retail franchise operating across multiple branches.
 The dashboard provides a clear and interactive view of key business metrics such as revenue, quantity sold, unit cost, unit price, and profit.
@@ -105,5 +107,10 @@ Overall, this Power BI and Microsoft Excel report enables decision-makers to qui
 <img width="1222" height="681" alt="image" src="https://github.com/user-attachments/assets/5771120e-40a4-4ade-80d8-aac612d58577" />
 
 <img width="1223" height="675" alt="image" src="https://github.com/user-attachments/assets/9c3dad04-fee7-41d7-8790-ceaa8d6e2657" />
+
+**Dataset Used**
+
+<a href="https://www.kaggle.com/datasets/datamantis/retail-sales">Kaggle</a>
+<
 
 
