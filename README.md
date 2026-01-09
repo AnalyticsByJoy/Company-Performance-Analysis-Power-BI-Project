@@ -1,4 +1,17 @@
 # Company-Performance-Analysis-Power-BI-Project
+
+##Table Of Contents
+
+[Project Objective](#project-objective)
+
+[Key Business Questions Answered (KPIs)](#key-business-questions-answered-(kpis))
+
+[Process](#process)
+
+[Project Insights](#project-insights)
+
+[Dashboards](#dashboards)
+
 ## Project Objective
 The objective of this project was to analyze the sales performance of a retail franchise operating across multiple branches.
 The dashboard provides a clear and interactive view of key business metrics such as revenue, quantity sold, unit cost, unit price, and profit.
